@@ -1,0 +1,86 @@
+# Starting point for these settings was https://robots.thoughtbot.com/how-to-git-with-unity
+# 3D models
+*.3dm filter=lfs diff=lfs merge=lfs -text
+*.3ds filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.c4d filter=lfs diff=lfs merge=lfs -text
+*.collada filter=lfs diff=lfs merge=lfs -text
+*.dae filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.jas filter=lfs diff=lfs merge=lfs -text
+*.lws filter=lfs diff=lfs merge=lfs -text
+*.lxo filter=lfs diff=lfs merge=lfs -text
+*.ma filter=lfs diff=lfs merge=lfs -text
+*.max filter=lfs diff=lfs merge=lfs -text
+*.mb filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.ply filter=lfs diff=lfs merge=lfs -text
+*.skp filter=lfs diff=lfs merge=lfs -text
+*.stl filter=lfs diff=lfs merge=lfs -text
+*.ztl filter=lfs diff=lfs merge=lfs -text
+# Audio
+*.aif filter=lfs diff=lfs merge=lfs -text
+*.aiff filter=lfs diff=lfs merge=lfs -text
+*.it filter=lfs diff=lfs merge=lfs -text
+*.mod filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+*.s3m filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.xm filter=lfs diff=lfs merge=lfs -text
+# Fonts
+*.otf filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text
+# Images
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.gif filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
+*.iff filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.pict filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+# Plugins, Extensions etc.
+*.a filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+# Various docs 
+*.pdf filter=lfs diff=lfs merge=lfs -text
+# Builds
+*.assetbundle filter=lfs diff=lfs merge=lfs -text
+# Collapse Unity-generated files on GitHub
+*.asset linguist-generated
+*.mat linguist-generated
+*.meta linguist-generated
+*.prefab linguist-generated
+*.unity linguist-generated
+Assets/ThirdParty/GluAds/Plugins/iOS/AdColony.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/AppLovinSDK.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/AppOnboard.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/Avid-MoPub.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAnalytics/Plugins/iOS/AWSCore.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAnalytics/Plugins/iOS/AWSKinesis.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/FBAudienceNetwork.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/FyberSDK.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/GluAds.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAnalytics/Plugins/iOS/GluAnalytics.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAppTracking/Plugins/iOS/GluAppTracking.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluCentralServices/Plugins/iOS/GluCentralServices.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluIAP/Plugins/iOS/GluIAP.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/GoogleMobileAds.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/HyprMX.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/MoPub.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/MPUBMoatMobileAppKit.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAppTracking/Plugins/iOS/Singular.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/Tapjoy.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/UnityAds.framework/* filter=lfs diff=lfs merge=lfs -text
+Assets/ThirdParty/GluAds/Plugins/iOS/VungleSDK.framework/* filter=lfs diff=lfs merge=lfs -text

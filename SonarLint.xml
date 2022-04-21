@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalysisInput>
+    <Rules>
+        <Rule><Key>S3903</Key></Rule>
+        <Rule><Key>S1172</Key></Rule>
+        <Rule><Key>S3898</Key></Rule>
+    </Rules>
+</AnalysisInput>
+

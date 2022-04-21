@@ -1,0 +1,74 @@
+# =============== #
+# Unity generated #
+# =============== #
+Library/
+Builds/
+Temp/
+*.sln
+*.sln.meta
+*.suo
+*.suo.meta
+*.csproj
+*.csproj.meta
+*.pyc
+*.pyc.meta
+*.userprefs
+*.userprefs.meta
+*.user
+.vs
+.vsconfig
+.idea
+/obj
+Assets/Bundles
+/Assets/Bundles.meta
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+Thumbs.db
+Thumbs.db.meta
+.~lock*
+
+# ========
+Assets/Systems/Narrative/NarrativeTool/Logs/XMLParserLog.txt
+Assets/Systems/Narrative/NarrativeTool/Logs/XMLParserLog.txt.meta
+Assets/Systems/Narrative/NarrativeTool/Logs/FDXParserLog.txt
+Assets/Systems/Narrative/NarrativeTool/Logs/FDXParserLog.txt.meta
+/Assets/Editor/Seek/Seek Config.asset
+/Assets/Editor/Seek/Seek Config.asset.meta
+/.vscode
+/PelicanProj
+.gradle
+/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml
+/Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml.meta
+/Assets/Plugins/Android/Firebase/res/values/google-services.xml
+/Assets/Plugins/Android/Firebase/res/values/google-services.xml.meta
+Assets/GameContent/Flowcharts/
+/Assets/GameContent/Flowcharts.meta
+Assets/Art/Scenes/TempArt/psds/
+/Assets/Art/Scenes/TempArt/psds.meta
+/Assets/Plugins/Editor/JetBrains/
+/Assets/Plugins/Editor/JetBrains.meta
+/Assets/Plugins/Editor.meta
+
+# ====== #
+# Build  #
+# ====== #
+*.apk
+OriginalsGradleProject/
+ServerData/
+*_mapping.txt
+
+# ======================== #
+# Local Addressables Build #
+# ======================== #
+Assets/StreamingAssets/aa*
+/Assets/GoogleService-Info.plist
+/Assets/GoogleService-Info.plist.meta
+/Assets/google-services.json
+/Assets/google-services.json.meta
+/CodeCoverage
+/Logs
+/UserSettings/QuickSearch.settings
+/UserSettings/EditorUserSettings.asset
